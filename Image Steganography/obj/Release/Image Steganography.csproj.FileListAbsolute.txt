@@ -1,0 +1,10 @@
+G:\C#\Network Security\Assignment_Steganography\Image Steganography\bin\Release\IMG Stego.exe.config
+G:\C#\Network Security\Assignment_Steganography\Image Steganography\obj\Release\IMG Stego.exe
+G:\C#\Network Security\Assignment_Steganography\Image Steganography\obj\Release\IMG Stego.pdb
+G:\C#\Network Security\Assignment_Steganography\Image Steganography\bin\Release\IMG Stego.exe
+G:\C#\Network Security\Assignment_Steganography\Image Steganography\bin\Release\IMG Stego.pdb
+G:\C#\Network Security\Assignment_Steganography\Image Steganography\obj\Release\IMG_Stego.FormStego.resources
+G:\C#\Network Security\Assignment_Steganography\Image Steganography\obj\Release\Image_Steganography.Properties.Resources.resources
+G:\C#\Network Security\Assignment_Steganography\Image Steganography\obj\Release\Image Steganography.csproj.GenerateResource.Cache
+G:\C#\Network Security\Assignment_Steganography\Image Steganography\obj\Release\Image Steganography.csprojAssemblyReference.cache
+G:\C#\Network Security\Assignment_Steganography\Image Steganography\obj\Release\Image Steganography.csproj.CoreCompileInputs.cache
